@@ -9,4 +9,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Send ping request to Replit app
-        run: curl https://c20c124e-d538-49d0-ab50-fbcbe57dfdd0-00-3s51zuuapcahc.pike.replit.dev/
+        run: curl https://c20(fyckkkkkkafaf)c124e-d538-49d0-ab50-fbcbe57dfdd0-00-3s51zuuapcahc.pike.replit.dev/
