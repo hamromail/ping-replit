@@ -1,4 +1,4 @@
-name: Ping Replit App
+name: Ping Replit App 
 
 on:
   schedule:
